@@ -7,3 +7,8 @@ Device Management:
 Monitors all devices in an operating system. 
 Decides which processes have access to certain devices.
 Efficiently establishes/destablishes connections between processes and devices when needed.
+
+Security Management:
+Prevents unauthorized access to operating system and data.
+Restricts accessibility by using password protection and requiring authentication.
+Recognizes program and system threats by noticing irregular activities and bringing to user's attention.
