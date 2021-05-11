@@ -2,3 +2,8 @@ Memory Management:
 One important function in operating systems is the management of Main Memory. 
 Accessible by the CPU, the Main Memory allows for quick storage. 
 When running multiple programs, the CPU prioritizes which has access to memory.
+
+Device Management:
+Monitors all devices in an operating system. 
+Decides which processes have access to certain devices.
+Efficiently establishes/destablishes connections between processes and devices when needed.
